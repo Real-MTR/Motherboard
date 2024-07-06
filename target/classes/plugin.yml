@@ -1,0 +1,4 @@
+name: Motherboard
+version: '1.0'
+main: xyz.atomdev.motherboard.Motherboard
+author: Crystal Development Team

@@ -1,0 +1,4 @@
+name: Motherboard
+version: '${project.version}'
+main: xyz.atomdev.motherboard.Motherboard
+author: Crystal Development Team
